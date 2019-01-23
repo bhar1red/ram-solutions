@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 #hero{
   background-image: url("../images/c4.jpeg");
   width: 100%;
